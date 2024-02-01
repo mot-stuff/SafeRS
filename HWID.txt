@@ -3,3 +3,8 @@ f8ae28c8443cfa0c71e6542d380857c6
 5cc88ef579c3be53a0f868bbf6d6cda5
 speed:
 452e7b73ca4c15f7028a90c8cf12b2bb
+
+Qetor:
+7b60323123800b23ddcdacc8aba6ac8d
+Merio:
+cb6569cdf348b70cd9a5a4d3c6ee6fcb
